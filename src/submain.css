@@ -1,0 +1,27 @@
+.button{
+    -fx-max-width:200;
+    -fx-max-height:100;
+    -fx-min-width:200;
+    -fx-min-height:100;
+    -fx-text-fill:#0f0601;
+}
+.button:hover{
+    -fx-background-color:rgb(184, 180, 180);
+}
+
+#lines{
+    -fx-max-width:50;
+    -fx-max-height:50;
+     -fx-min-width:50;
+    -fx-min-height:50;
+}
+
+.text-field{
+    -fx-font-family: "Quicksand";
+    -fx-font-size: 35;
+    -fx-border-color:transparent;
+    -fx-border-width: 2;
+    -fx-border-radius: 0;
+    -fx-background-color: transparent;
+    -fx-text-fill: grey;
+ }

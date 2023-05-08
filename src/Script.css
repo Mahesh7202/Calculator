@@ -1,0 +1,29 @@
+.button{
+    -fx-background-color:transparent;
+    -fx-max-width:100;
+    -fx-max-height:60;
+    -fx-min-width:100;
+    -fx-min-height:60;
+    -fx-scale-x:3;
+    -fx-scale-y:3;
+    -fx-text-fill:#0f0601;
+}
+
+#exi:hover{
+    -fx-fill:#e31c25;
+}
+
+#exit:hover{
+    -fx-background-color:transparent;
+}
+
+.label{
+    -fx-font-family:"fantasy";
+    -fx-font-size: 30px;
+    -fx-font-weight:bold;
+    -fx-text-fill: #ff6939;
+}
+
+.button:hover{
+   -fx-background-color:gray;
+}

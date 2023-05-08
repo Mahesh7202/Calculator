@@ -1,0 +1,26 @@
+.button{
+    -fx-font-size:30px;
+    -fx-font-weight:bold;
+
+    -fx-background-color:transparent;
+}
+.button:hover{
+    -fx-background-color:rgb(184, 180, 180);
+}
+.text-field{
+    -fx-font-family: "Quicksand";
+    -fx-font-size: 25;
+    -fx-border-color:transparent;
+    -fx-border-width: 0;
+    -fx-border-radius: 0;
+    -fx-background-color: transparent;
+    -fx-text-fill: grey;
+ }
+
+ .label{
+    -fx-font-family: "Quicksand";
+    -fx-font-size: 25;
+    -fx-font-weight:bold;
+    -fx-text-fill: Black;
+ }
+
